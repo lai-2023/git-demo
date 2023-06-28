@@ -3,3 +3,4 @@ new hello world
 new new hello world
 hot-fix hello world
 master test
+hot-fix test
