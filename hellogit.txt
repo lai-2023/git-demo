@@ -5,3 +5,4 @@ hot-fix hello world
 master test
 hot-fix test
 github test
+clone test
