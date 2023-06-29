@@ -6,3 +6,4 @@ master test
 hot-fix test
 github test
 clone test
+two clone test
